@@ -1,0 +1,13 @@
+data/*
+*.png 
+*.dot
+python/data/
+python/checkpoints/
+python/**.pyc
+python/**/__pycache__
+python/models/*_trained_*_final
+venv/
+.vscode/
+__pycache__
+model_files/
+.idea/

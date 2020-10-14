@@ -1,0 +1,11 @@
+tqdm
+pytest
+scipy
+torchvision
+webcolors
+matplotlib
+torch
+numpy
+opencv_python
+Pillow
+skimage

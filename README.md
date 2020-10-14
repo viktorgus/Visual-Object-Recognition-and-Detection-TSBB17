@@ -1,2 +1,15 @@
-# Visual-Object-Recognition-and-Detection-TSBB17
-Course in various techniques and theories within object recognition, detection, tracking, segmentation etc. Including: Invariant local features and feature extraction in digital images, bag-of-features framework, principles of object recognition and detection, local spatial constraints, introduction to convolutional neural networks, support vector machines learning, shape descriptors and matching, part-based models for recognition, the role of context in recognition, overview of object recognition in biological systems and deep features.
+# Visual Object Recognition and Detection TSBB17
+Labs using PyTorch and openCV for object recognition and generalised object tracking.
+
+# Lab 1
+Implemented and tested various setups for a CNN for image recognition. Experimented with different pooling settings, dropout, multi-stream networks, spatial pyramid pooling, different weight initializations, and hyperparameter tuning such as learning rate. 
+
+Result: achieved over 90% test accuracy on the CIFAR10 dataset.
+
+# Lab 2
+Implemented generalized object trackers from the ground up using DCF with convulutions using dot product in the fourier space.
+
+- Implemented MOSSE tracker in cvl/trackers/mosse_tracker.py
+- Implemented a multi-channel MOSSE in cvl/trackers/mosse_multi.py
+- Implemented a scale estimation component in MOSSE in cvl/trackers/mosse_multi_scale.py
+- Implemented several new features and experimentation with different parameter settings for theese: Histogram of gradients, gradient filter bank, deep features (features from output of different layers in pretrained alexNet)
