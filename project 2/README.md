@@ -6,7 +6,7 @@ This project aims to evaluate the MOSSE tracker and how it performs with differe
 the OTB-mini dataset.
 
 # Final Performance
-![Tracker Performance](https://github.com/viktorgus/Visual-Object-Recognition-and-Detection-TSBB17/tree/main/project%202/tracker_performance.png)
+![Tracker Performance]![tracker_performance](https://user-images.githubusercontent.com/46990011/107772698-dbeade00-6d3c-11eb-897e-bff9c2fa96c2.png)
 
 
 # Dataset

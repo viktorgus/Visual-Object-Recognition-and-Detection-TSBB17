@@ -2,7 +2,7 @@
 Lukas Borggren, Viktor Gustafsson and Gustav Wahlquist.
 
 ## Performance
-![Model Performance](https://github.com/viktorgus/Visual-Object-Recognition-and-Detection-TSBB17/tree/main/project%201/model_performance.png)
+![Model Performance](https://user-images.githubusercontent.com/46990011/107772752-f1f89e80-6d3c-11eb-9b5c-d7881acc6825.png)
 
 
 ## Introduction
