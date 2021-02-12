@@ -1,13 +1,12 @@
 # TSBB17 Project 2: Visual Object Tracking
 Lukas Borggren, Viktor Gustafsson and Gustav Wahlquist.
 
-# Introduction
-This project aims to evaluate the MOSSE tracker and how it performs with different maps of features on
-the OTB-mini dataset.
-
-# Final Performance
+## Final Performance
 ![tracker_performance](https://user-images.githubusercontent.com/46990011/107772698-dbeade00-6d3c-11eb-897e-bff9c2fa96c2.png)
 
+## Introduction
+This project aims to evaluate the MOSSE tracker and how it performs with different maps of features on
+the OTB-mini dataset.
 
 # Dataset
 The dataset used in this project is a subset of the OTB benchmark called OTB-mini. It consists of 30
